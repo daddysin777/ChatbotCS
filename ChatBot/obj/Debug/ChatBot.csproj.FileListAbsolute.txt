@@ -1,0 +1,12 @@
+G:\VS Projects\C-Sharp\GUI C#\ChatBot\bin\Debug\ChatBot.exe.config
+G:\VS Projects\C-Sharp\GUI C#\ChatBot\bin\Debug\ChatBot.exe
+G:\VS Projects\C-Sharp\GUI C#\ChatBot\bin\Debug\ChatBot.pdb
+G:\VS Projects\C-Sharp\GUI C#\ChatBot\bin\Debug\AIMLBot.dll
+G:\VS Projects\C-Sharp\GUI C#\ChatBot\obj\Debug\ChatBot.Form1.resources
+G:\VS Projects\C-Sharp\GUI C#\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+G:\VS Projects\C-Sharp\GUI C#\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+G:\VS Projects\C-Sharp\GUI C#\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+G:\VS Projects\C-Sharp\GUI C#\ChatBot\obj\Debug\ChatBot.csproj.CopyComplete
+G:\VS Projects\C-Sharp\GUI C#\ChatBot\obj\Debug\ChatBot.exe
+G:\VS Projects\C-Sharp\GUI C#\ChatBot\obj\Debug\ChatBot.pdb
+G:\VS Projects\C-Sharp\GUI C#\ChatBot\obj\Debug\ChatBot.csproj.AssemblyReference.cache
